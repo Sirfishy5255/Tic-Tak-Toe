@@ -1,0 +1,24 @@
+# Build
+build/
+cmake-build-*/
+
+# Compiled objects
+*.o
+*.obj
+*.out
+
+# Executables
+tictactoe
+*.exe
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+compile_commands.json
